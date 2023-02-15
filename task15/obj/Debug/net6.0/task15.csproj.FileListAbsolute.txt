@@ -1,0 +1,15 @@
+D:\Geekbreans\GeekBrains\WORK C#\HOMEWork\2HomeWorkC#AL\task15\bin\Debug\net6.0\task15.exe
+D:\Geekbreans\GeekBrains\WORK C#\HOMEWork\2HomeWorkC#AL\task15\bin\Debug\net6.0\task15.deps.json
+D:\Geekbreans\GeekBrains\WORK C#\HOMEWork\2HomeWorkC#AL\task15\bin\Debug\net6.0\task15.runtimeconfig.json
+D:\Geekbreans\GeekBrains\WORK C#\HOMEWork\2HomeWorkC#AL\task15\bin\Debug\net6.0\task15.dll
+D:\Geekbreans\GeekBrains\WORK C#\HOMEWork\2HomeWorkC#AL\task15\bin\Debug\net6.0\task15.pdb
+D:\Geekbreans\GeekBrains\WORK C#\HOMEWork\2HomeWorkC#AL\task15\obj\Debug\net6.0\task15.csproj.AssemblyReference.cache
+D:\Geekbreans\GeekBrains\WORK C#\HOMEWork\2HomeWorkC#AL\task15\obj\Debug\net6.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbreans\GeekBrains\WORK C#\HOMEWork\2HomeWorkC#AL\task15\obj\Debug\net6.0\task15.AssemblyInfoInputs.cache
+D:\Geekbreans\GeekBrains\WORK C#\HOMEWork\2HomeWorkC#AL\task15\obj\Debug\net6.0\task15.AssemblyInfo.cs
+D:\Geekbreans\GeekBrains\WORK C#\HOMEWork\2HomeWorkC#AL\task15\obj\Debug\net6.0\task15.csproj.CoreCompileInputs.cache
+D:\Geekbreans\GeekBrains\WORK C#\HOMEWork\2HomeWorkC#AL\task15\obj\Debug\net6.0\task15.dll
+D:\Geekbreans\GeekBrains\WORK C#\HOMEWork\2HomeWorkC#AL\task15\obj\Debug\net6.0\refint\task15.dll
+D:\Geekbreans\GeekBrains\WORK C#\HOMEWork\2HomeWorkC#AL\task15\obj\Debug\net6.0\task15.pdb
+D:\Geekbreans\GeekBrains\WORK C#\HOMEWork\2HomeWorkC#AL\task15\obj\Debug\net6.0\task15.genruntimeconfig.cache
+D:\Geekbreans\GeekBrains\WORK C#\HOMEWork\2HomeWorkC#AL\task15\obj\Debug\net6.0\ref\task15.dll
